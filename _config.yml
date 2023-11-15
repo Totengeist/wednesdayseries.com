@@ -1,0 +1,53 @@
+title: Nevermore Academy
+author: Totengeist
+email: me@totengeist.com
+url: https://www.wednesdayseries.com
+description: > # this means to ignore newlines until "twitter_username:"
+  A fan site for the Netflix series Wednesday.
+
+# social links
+rss: rss
+logo: img/nevermore_logo.png
+
+show_excerpts: true # set to true to show excerpts on the homepage
+google_analytics: G-QWXPDCT547
+lang: en-US
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/:year/:month/:title.html"
+
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+date_format: "%b %-d, %Y"
+date_format_yearless: "%b %-d"
+time_format: "%I:%M %P"
+
+# Build settings
+markdown: kramdown
+plugins:
+ - jekyll-index-pages
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-redirect-from
+
+index_pages:
+  categories:
+    title: Posts about :label
+    excerpt: Posts about :label
+    per_page: 5
+    permalink: /category/:label/
+    layout: index
+  tags:
+    title: Posts about :label
+    excerpt: Posts about :label
+    per_page: 5
+    permalink: /tag/:label/
+    layout: index
+
+kramdown:
+    footnote_backlink: "⤴"

@@ -1,0 +1,22 @@
+
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="{{ '/index.html' | relativize_url }}"><img src="{{ '/img/nevermore_logo.png' | relativize_url }}" alt="Nevermore"></a>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li{% if page.path contains 'index.html'      %} class="active"{% endif %}><a href="{{ '/index.html'      | relativize_url }}"><i class="glyphicon glyphicon-home hidden-lg"></i> Home</a></li>
+						<li{% if page.path contains 'faq.html'        %} class="active"{% endif %}><a href="{{ '/faq.html'        | relativize_url }}"><i class="glyphicon glyphicon-question-sign hidden-lg"></i> FAQ</a></li>
+						<li{% if page.path contains 'tour.html'       %} class="active"{% endif %}><a href="{{ '/tour.html'       | relativize_url }}"><i class="glyphicon glyphicon-hand-up hidden-lg"></i> Tour</a></li>
+						<li{% if page.path contains 'minecraft.html'  %} class="active"{% endif %}><a href="{{ '/minecraft.html'  | relativize_url }}"><i class="glyphicon glyphicon-send hidden-lg"></i> Minecraft</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>

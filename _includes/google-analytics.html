@@ -1,0 +1,21 @@
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		
+		<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', '{{ site.google_analytics }}');
+		</script>
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"name": "{{ site.title }}",
+			"headline":"{{ site.description }}",
+			"url": "{{ site.url }}",
+			"logo": "https://www.wednesdayseries.com/img/nevermore_logo.png",
+			"sameAs": []
+		}
+		</script>
