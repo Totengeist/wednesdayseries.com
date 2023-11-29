@@ -10,7 +10,7 @@ redirect_from:
 
 ## When will Season 2 release?
 
-Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] strikes, production on season 2 was pushed back. A [Deadline][deadline-1235601823] report in November indicates shooting has been "tentatively slated for late April." The existing main cast is expected to return.</p>
+Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] strikes, production on season 2 was pushed back. A [Deadline][deadline-1235601823] report in November indicates shooting has been "tentatively slated for late April." The existing main cast is expected to return.
 
 ## Has Wednesday been renewed for Season 2?
 
@@ -31,10 +31,10 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 </div></div>
 
 
-[_discord]: {{ "/" | relativize_url }}
-[_tour]: tour.html
-[deadline-1235212712]: https://deadline.com/2023/01/wednesday-renewed-second-season-netflix-1235212712/ "‘Wednesday’ Renewed For Season 2 By Netflix"
+[_discord]: {{ "/" | relativize_url }} "Nevermore Discord"
+[_tour]: tour.html "Virtual Tour of Filming Locations"
+[deadline-1235212712]: https://deadline.com/2023/01/wednesday-renewed-second-season-netflix-1235212712/ "Deadline: ‘Wednesday’ Renewed For Season 2 By Netflix"
 [deadline-1235601823]: https://deadline.com/2023/11/wednesday-production-move-ireland-season-2-start-romania-1235601823/ "Deadline: ‘Wednesday’ Moving Production To Ireland As Season 2 Eyes Spring Start"
-[deadline-1235613439]: https://deadline.com/2023/11/wednesday-production-season-2-move-ireland-1235613439/ "‘Wednesday’ EP Steve Stark Talks Production Move To Ireland, Teases Season 2"
-[wiki-sag]: https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike
-[wiki-wga]: https://en.wikipedia.org/wiki/2023_Writers_Guild_of_America_strike
+[deadline-1235613439]: https://deadline.com/2023/11/wednesday-production-season-2-move-ireland-1235613439/ "Deadline: ‘Wednesday’ EP Steve Stark Talks Production Move To Ireland, Teases Season 2"
+[wiki-sag]: https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike "Wikipedia: 2023 SAG-AFTRA strike"
+[wiki-wga]: https://en.wikipedia.org/wiki/2023_Writers_Guild_of_America_strike "Wikipedia: 2023 Writers Guild of America strike"
