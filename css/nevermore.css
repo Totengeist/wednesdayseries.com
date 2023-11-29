@@ -58,12 +58,20 @@ hr {
 }
 
 .jumbotron-tour {
-	background-image: url(../img/tour/image1.png);
+	background-image: url(../img/thornhill-greenhouse.jpg);
 	background-position: 80% 10%;
 }
 .jumbotron-socialmedia {
-	background-image: url(../img/socialmedia-blur.jpg);
+	background-image: url(../img/social-media.jpg);
 	background-position: 20% 50%;
+}
+.jumbotron-faq {
+	background-image: url(../img/nevermore-gates.jpg);
+	background-position: bottom;
+}
+.jumbotron-minecraft {
+	background-image: url(../img/nevermore-minecraft.jpg);
+	background-position: bottom;
 }
 
 .jumbotron .container {
@@ -78,6 +86,10 @@ hr {
 
 .container .tour row {
 	margin-bottom: 20px;
+}
+
+.container.faq h2 {
+	margin-top: 2em;
 }
 
 .social {
