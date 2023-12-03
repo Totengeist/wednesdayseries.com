@@ -44,17 +44,30 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 > 
 > &mdash; [Digital Spy][digitalspy-a42075699]
 
+## Did Jenna Ortega play a cello cover of The Rolling Stones' *Paint It Black*?
+
+*No*, but she did learn to play the cello and the song to look believable in the scene.
+
+> It’s not her on the soundtrack, but she practiced very hard and she fell in love with a cello. She was really dedicated and really knew how to play it, so you could see her technique. I’m sure she would say she wasn’t as great as it could have been, but we had this teacher there saying that she did incredibly well at the time. She learned all the pieces as she went through the season. I think it’s pretty remarkable, just to sit there and learn an instrument from scratch.
+> 
+> &mdash; Miles Millar to [Vanity Fair][vanityfair-cello]
+
+The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana Da Fonseca][grammy2023], [Mick Jagger, and Keith Richards][billboard-1235518712] listed as arrangers. Jagger and Richards are also nominated for *Angry* from their new album.
+
 </div></div><hr>
 
 [^1]: All recent reporting that we have seen on Percy Hynes' supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
 [_discord]: {{ "/" | relativize_url }} "Nevermore Discord"
 [_tour]: tour.html "Virtual Tour of Filming Locations"
+[billboard-1235518712]: https://www.billboard.com/music/awards/mick-jagger-keith-richards-grammy-nominations-wednesday-cover-paint-it-black-1235518712/
 [dailymail-12454313]: https://www.dailymail.co.uk/tvshowbiz/article-12454313/Percy-Hynes-White-dropped-Netflix-Wednesday-sex-assault-allegation.html
 [theguardian-dailymail]: https://www.theguardian.com/technology/2017/feb/08/wikipedia-bans-daily-mail-as-unreliable-source-for-website
 [deadline-1235212712]: https://deadline.com/2023/01/wednesday-renewed-second-season-netflix-1235212712/ "Deadline: ‘Wednesday’ Renewed For Season 2 By Netflix"
 [deadline-1235601823]: https://deadline.com/2023/11/wednesday-production-move-ireland-season-2-start-romania-1235601823/ "Deadline: ‘Wednesday’ Moving Production To Ireland As Season 2 Eyes Spring Start"
 [deadline-1235613439]: https://deadline.com/2023/11/wednesday-production-season-2-move-ireland-1235613439/ "Deadline: ‘Wednesday’ EP Steve Stark Talks Production Move To Ireland, Teases Season 2"
 [digitalspy-a42075699]: https://www.digitalspy.com/tv/ustv/a42075699/wednesday-gwendoline-christie-season-2-return/
+[grammy2023]: https://www.grammy.com/news/2024-grammys-nominations-full-winners-nominees-list
+[vanityfair-cello]: https://www.vanityfair.com/hollywood/2023/08/wednesday-cello-awards-insider
 [wiki-sag]: https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike "Wikipedia: 2023 SAG-AFTRA strike"
 [wiki-wga]: https://en.wikipedia.org/wiki/2023_Writers_Guild_of_America_strike "Wikipedia: 2023 Writers Guild of America strike"
