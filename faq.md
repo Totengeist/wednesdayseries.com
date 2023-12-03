@@ -44,7 +44,7 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 > 
 > &mdash; [Digital Spy][digitalspy-a42075699]
 
-</div></div>
+</div></div><hr>
 
 [^1]: All recent reporting that we have seen on Percy Hynes' supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
