@@ -28,8 +28,6 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 > 
 > &mdash; [Deadline][deadline-1235613439]
 
-</div></div>
-
 ## Has Percy Hynes White been removed from the cast?
 
 **Unclear**.
@@ -45,6 +43,8 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 > "We haven't seen her put in the ground, have we?" Christie said in an exclusive interview with Digital Spy. "I feel like Larissa Weems would not really be prepared to entertain or be dominated by anything as commonplace as death."
 > 
 > &mdash; [Digital Spy][digitalspy-a42075699]
+
+</div></div>
 
 [^1]: All recent reporting that we have seen on Percy Hynes' supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
