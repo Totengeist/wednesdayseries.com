@@ -166,6 +166,42 @@ blockquote {
 	background-color: rgb(0 0 0 / 10%);
 }
 
+.spoiler > div {
+	opacity: 0;
+	transition: opacity 0.5s;
+}
+.spoiler:hover > div {
+	opacity: 1
+}
+.spoiler {
+	display: grid;
+	overflow: hidden;
+	border: 1px solid #684895;
+}
+.spoiler:hover, .spoiler-show {
+	border: 1px solid rgba(255,255,255,0);
+}
+.spoiler:after {/* draw the watermark at screen*/
+	color: rgba(1, 1, 1, 0.4);
+	content: 'spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler spoiler';
+	word-spacing: 3em;
+	transform: rotate(-30deg);
+	filter:
+		drop-shadow(-1.5em 3em 0px #fff)
+		drop-shadow(-3em 6em 0px #fff)
+		drop-shadow(-6em 12em 0px #fff)
+		drop-shadow(-12em 24em 0px #fff)
+		drop-shadow(-24em 48em 0px #fff)
+		drop-shadow(47em -93em 0px #fff)
+	;
+	height: 0px;
+	white-space: nowrap;
+	margin-left: -200px;
+}
+.spoiler:hover:after {/* draw the watermark at screen*/
+	content: '';
+}
+
 
 @font-face {
 	font-family: 'si';

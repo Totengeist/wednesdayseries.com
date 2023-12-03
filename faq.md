@@ -8,9 +8,13 @@ redirect_from:
 <div class="jumbotron jumbotron-faq"><div class="container"><div class="row"><div class="col-lg-12 text-center"><h1>Frequently Asked Questions</h1></div><div class="row col-lg-12 text-center"><h5>We try to present only highly factual and confirmed information. If you find any information<br>on this page that is either outdated or incorrect, please contact the staff on <a href="{{ "/" | relativize_url }}">Discord</a>.</h5></div>
 </div></div></div><div class="container faq"><div class="row col-lg-12" markdown=1>
 
+&nbsp;
+
+To avoid spoiling information for anyone who doesn't want it spoiled, we've hidden some information behind spoiler tags. To reveal the information, please hover over the text.
+
 ## When will Season 2 release?
 
-Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] strikes, production on season 2 was pushed back. A [Deadline][deadline-1235601823] report in November indicates shooting has been "tentatively slated for late April." The existing main cast is expected to return.
+Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] strikes, production on season 2 was pushed back. A [Deadline][deadline-1235601823] report in November indicates shooting has been "tentatively slated for late April." The existing main cast is expected to return, although Percy Hynes White's status is [unclear](#has-percy-hynes-white-been-removed-from-the-cast).
 
 ## Has Wednesday been renewed for Season 2?
 
@@ -32,17 +36,25 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 
 **Unclear**.
 
+<div class="spoiler"><div markdown="1">
+
 There has been no reputable reporting on whether Percy Hynes White is still on the cast of Wednesday. All stories claiming he has been removed from the cast originate from questionable sources[^1]. Netflix has released no official statements on the matter.
+
+</div></div>
 
 ## Will Principal Weems return?
 
 **Unclear**.
+
+<div class="spoiler"><div markdown="1">
 
 In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may return:
 
 > "We haven't seen her put in the ground, have we?" Christie said in an exclusive interview with Digital Spy. "I feel like Larissa Weems would not really be prepared to entertain or be dominated by anything as commonplace as death."
 > 
 > &mdash; [Digital Spy][digitalspy-a42075699]
+
+</div></div>
 
 ## Did Jenna Ortega play a cello cover of The Rolling Stones' *Paint It Black*?
 
@@ -56,7 +68,7 @@ The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana
 
 </div></div><hr>
 
-[^1]: All recent reporting that we have seen on Percy Hynes' supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
+[^1]: All recent reporting that we have seen on Percy Hynes White's supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
 [_discord]: {{ "/" | relativize_url }} "Nevermore Discord"
 [_tour]: tour.html "Virtual Tour of Filming Locations"
