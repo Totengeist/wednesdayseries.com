@@ -42,13 +42,13 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 > 
 > &mdash; [Variety][variety-1235631696]
 
-## Will Season 2 involve a love interest?
+## Will Season 2 involve a love interest for Wednesday?
 
 <div class="spoiler"><div markdown="1">
 
 **Unlikely**. Unfortunately for Wenclair, Wyler, and Wavier shippers, Ortaga shared the following spoilers in an interview for *Variety*'s *Actors on Actors*.
 
-> ORTEGA: It’s still coming together, but we’ve decided we want to lean into the horror more. We’re ditching any romantic love interest, which is really great. We’re going to get bolder, more dark. I’ve never had to do a serious period piece before. Was there anything you have to do to make sure things are accurate?
+> It’s still coming together, but we’ve decided we want to lean into the horror more. We’re ditching any romantic love interest, which is really great. We’re going to get bolder, more dark. I’ve never had to do a serious period piece before. Was there anything you have to do to make sure things are accurate?
 > 
 > &mdash; [Variety][variety-1235631696]
 
