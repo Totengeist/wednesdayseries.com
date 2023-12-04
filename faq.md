@@ -96,7 +96,7 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 
 ## Did Jenna Ortega play a cello cover of The Rolling Stones' *Paint It Black*?
 
-*No*, but she did learn to play the cello and the song to look believable in the scene.
+**No**, but she did learn to play the cello and the song to look believable in the scene.
 
 > It’s not her on the soundtrack, but she practiced very hard and she fell in love with a cello. She was really dedicated and really knew how to play it, so you could see her technique. I’m sure she would say she wasn’t as great as it could have been, but we had this teacher there saying that she did incredibly well at the time. She learned all the pieces as she went through the season. I think it’s pretty remarkable, just to sit there and learn an instrument from scratch.
 > 
@@ -106,7 +106,7 @@ The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana
 
 </div></div><hr>
 
-[^1]: All recent reporting that we have seen on Percy Hynes White's supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
+[^1]: All recent reporting on Percy Hynes White's supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
 [_discord]: {{ "/" | relativize_url }} "Nevermore Discord"
 [_tour]: tour.html "Virtual Tour of Filming Locations"
