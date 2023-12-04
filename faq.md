@@ -32,6 +32,44 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 > 
 > &mdash; [Deadline][deadline-1235613439]
 
+## Is Jenna Ortega a producer for Season 2?
+
+**Yes**. According to an interview on *Variety*'s *Actors on Actors* series, Ortega discussed this with Elle Fanning:
+
+> FANNING: I know you’re a producer next season.
+> 
+> ORTEGA: This is my first time. It was a natural progression. With a character like Wednesday, who is so beloved, I didn’t want to get her wrong. So I tried to have as many conversations as possible with the writers. We’d decide what works and what doesn’t. In preparation for a second season, we wanted to make sure that we could start the conversations earlier. I’m just so curious: I want to see the outfits, new characters, scripts. It’s your first time producing a television series as well.
+> 
+> &mdash; [Variety][variety-1235631696]
+
+## Will Season 2 involve a love interest?
+
+<div class="spoiler"><div>
+
+**Unlikely**. Unfortunately for Wenclair, Wyler, and Wavier shippers, Ortaga shared the following spoilers in an interview for *Variety*'s *Actors on Actors*.
+
+> ORTEGA: It’s still coming together, but we’ve decided we want to lean into the horror more. We’re ditching any romantic love interest, which is really great. We’re going to get bolder, more dark. I’ve never had to do a serious period piece before. Was there anything you have to do to make sure things are accurate?
+> 
+> &mdash; [Variety][variety-1235631696]
+
+</div></div>
+
+## Did Jenna Ortega perform the famous Wednesday dance while sick with COVID?
+
+**Yes**. According to an interview with NME:
+
+>  “I choreographed that myself!” Ortega tells us later. “I’m not a dancer and I’m sure that’s obvious. I’d gotten the song [The Cramps’ 1981 single ‘Goo Goo Muck’] about a week before and I just pulled from whatever I could… it’s crazy because it was my first day with COVID so it was awful to film.”
+> 
+> Wait, what?
+> 
+> “Yeah, I woke up and – it’s weird, I never get sick and when I do it’s not very bad – I had the body aches. I felt like I’d been hit by a car and that a little goblin had been let loose in my throat and was scratching the walls of my esophagus. They were giving me medicine between takes because we were waiting on the positive result.”
+> 
+> MGM, the production company behind Wednesday, confirmed to NME via email that “strict COVID protocols were followed and once the positive test was confirmed production removed Jenna from set.”
+> 
+> “I asked to redo it but we didn’t have time,” she adds. “I think I probably could have done it a bit better…”
+> 
+> &mdash; [NME][nme-3346075]
+
 ## Has Percy Hynes White been removed from the cast?
 
 **Unclear**.
@@ -80,6 +118,8 @@ The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana
 [deadline-1235613439]: https://deadline.com/2023/11/wednesday-production-season-2-move-ireland-1235613439/ "Deadline: ‘Wednesday’ EP Steve Stark Talks Production Move To Ireland, Teases Season 2"
 [digitalspy-a42075699]: https://www.digitalspy.com/tv/ustv/a42075699/wednesday-gwendoline-christie-season-2-return/
 [grammy2023]: https://www.grammy.com/news/2024-grammys-nominations-full-winners-nominees-list
+[nme-3346075]: https://www.nme.com/features/tv-interviews/wednesday-interview-jenna-ortega-behind-the-scenes-3346075
 [vanityfair-cello]: https://www.vanityfair.com/hollywood/2023/08/wednesday-cello-awards-insider
+[variety-1235631696]: https://variety.com/2023/tv/features/jenna-ortega-elle-fanning-social-media-bad-auditions-1235631696/
 [wiki-sag]: https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike "Wikipedia: 2023 SAG-AFTRA strike"
 [wiki-wga]: https://en.wikipedia.org/wiki/2023_Writers_Guild_of_America_strike "Wikipedia: 2023 Writers Guild of America strike"
