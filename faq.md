@@ -1,16 +1,23 @@
 ---
 title: Frequently Asked Questions
+jumbotron: jumbotron-faq
+container: faq
 layout: default
 redirect_from:
   - /t/has-wednesday-been-renewed/44
 ---
 
-<div class="jumbotron jumbotron-faq"><div class="container"><div class="row"><div class="col-lg-12 text-center"><h1>Frequently Asked Questions</h1></div><div class="row col-lg-12 text-center"><h5>We try to present only highly factual and confirmed information. If you find any information<br>on this page that is either outdated or incorrect, please contact the staff on <a href="{{ "/" | relativize_url }}">Discord</a>.</h5></div>
-</div></div></div><div class="container faq"><div class="row col-lg-12" markdown=1>
+**We try to present only highly factual and confirmed information. If you find any information on this page that is either outdated or incorrect, please contact the staff on [Discord]({{ "/" | relativize_url }}).**
 
-&nbsp;
+To avoid spoiling information for anyone who doesn't want it spoiled, we've hidden some information behind spoiler tags. To reveal the information, please hover over or tap the box. Here's an example:
 
-To avoid spoiling information for anyone who doesn't want it spoiled, we've hidden some information behind spoiler tags. To reveal the information, please hover over the text.
+<div class="spoiler"><div markdown="1">
+
+Great! Now that you know how the spoiler tags work, you're set to use the rest of this page.
+
+</div></div>
+
+{:toc}
 
 ## When will Season 2 release?
 
@@ -23,6 +30,10 @@ Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] s
 ## Where was Wednesday filmed?
 
 Season 1 of *Wednesday* was filmed on location in Romania. For information on filming locations for Season 1, please see our [Virtual Tour][_tour].
+
+> We started in Toronto, we ended up in Romania. We looked at a lot of different castles and palaces and environments to base it on.
+> 
+> &mdash; Mark Scruton (production designer) via [Gold Derby][goldderby-markscruton]
 
 It has been reported that [Season 2 will be filmed in Ireland][deadline-1235601823].
 
@@ -46,7 +57,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 
 <div class="spoiler"><div markdown="1">
 
-**Unlikely**. Unfortunately for Wenclair, Wyler, and Wavier shippers, Ortaga shared the following spoilers in an interview for *Variety*'s *Actors on Actors*.
+**Unlikely**. Unfortunately for Wenclair, Wyler, and Wavier shippers, Jenna Ortaga shared the following spoilers in an interview for *Variety*'s *Actors on Actors*.
 
 > It’s still coming together, but we’ve decided we want to lean into the horror more. We’re ditching any romantic love interest, which is really great. We’re going to get bolder, more dark. I’ve never had to do a serious period piece before. Was there anything you have to do to make sure things are accurate?
 > 
@@ -74,11 +85,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 
 **Unclear**.
 
-<div class="spoiler"><div markdown="1">
-
 There has been no reputable reporting on whether Percy Hynes White is still on the cast of Wednesday. All stories claiming he has been removed from the cast originate from questionable sources[^1]. Netflix has released no official statements on the matter.
-
-</div></div>
 
 ## Will Principal Weems return?
 
@@ -102,9 +109,7 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 > 
 > &mdash; Miles Millar to [Vanity Fair][vanityfair-cello]
 
-The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana Da Fonseca][grammy2023], [Mick Jagger, and Keith Richards][billboard-1235518712] listed as arrangers. Jagger and Richards are also nominated for *Angry* from their new album.
-
-</div></div><hr>
+The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana Da Fonseca][grammy2023], [Mick Jagger, and Keith Richards][billboard-1235518712] listed as arrangers. Jagger and Richards are also nominated for *Angry* from their new album.<hr>
 
 [^1]: All recent reporting on Percy Hynes White's supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
@@ -112,6 +117,7 @@ The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana
 [_tour]: tour.html "Virtual Tour of Filming Locations"
 [billboard-1235518712]: https://www.billboard.com/music/awards/mick-jagger-keith-richards-grammy-nominations-wednesday-cover-paint-it-black-1235518712/
 [dailymail-12454313]: https://www.dailymail.co.uk/tvshowbiz/article-12454313/Percy-Hynes-White-dropped-Netflix-Wednesday-sex-assault-allegation.html
+[goldderby-markscruton]: https://www.goldderby.com/video/mark-scruton-interview-wednesday-production-designer/
 [theguardian-dailymail]: https://www.theguardian.com/technology/2017/feb/08/wikipedia-bans-daily-mail-as-unreliable-source-for-website
 [deadline-1235212712]: https://deadline.com/2023/01/wednesday-renewed-second-season-netflix-1235212712/ "Deadline: ‘Wednesday’ Renewed For Season 2 By Netflix"
 [deadline-1235601823]: https://deadline.com/2023/11/wednesday-production-move-ireland-season-2-start-romania-1235601823/ "Deadline: ‘Wednesday’ Moving Production To Ireland As Season 2 Eyes Spring Start"

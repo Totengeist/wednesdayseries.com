@@ -53,7 +53,6 @@ hr {
 .jumbotron {
 	background-size: cover;
 	background-position: center;
-	margin-bottom: 0px;
 	color: white;
 }
 
@@ -84,12 +83,40 @@ hr {
 	font-weight: 300;
 }
 
-.container .tour row {
-	margin-bottom: 20px;
+.container.tour h2 {
+	border-bottom: 1px solid #bd93f9;
+	border-top: 1px solid #bd93f9;
+	margin: 2em auto;
+	padding: 0.5em;
+	text-align: center;
+	width: 80%;
+}
+.container.tour h3, .container.tour h4 {
+	text-align: center;
+}
+
+.container.tour p.window {
+	text-align: center;
+}
+.container.tour p.window img {
+	margin: 2px;
+	height: 264px;
 }
 
 .container.faq h2 {
 	margin-top: 2em;
+}
+
+.container.staff {
+	padding: 0px;
+}
+
+.container.staff iframe {
+	display: block;
+	height: 85vh;
+	width: 110%;
+	padding: -10px;
+	margin: 0 -10px;
 }
 
 .social {
