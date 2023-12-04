@@ -44,7 +44,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 
 ## Will Season 2 involve a love interest?
 
-<div class="spoiler"><div>
+<div class="spoiler"><div markdown="1">
 
 **Unlikely**. Unfortunately for Wenclair, Wyler, and Wavier shippers, Ortaga shared the following spoilers in an interview for *Variety*'s *Actors on Actors*.
 
