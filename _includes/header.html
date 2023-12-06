@@ -13,6 +13,7 @@
 				<div id="navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li{% if page.path contains 'index.html'      %} class="active"{% endif %}><a href="{{ '/index.html'      | relativize_url }}"><i class="glyphicon glyphicon-home hidden-lg"></i> Home</a></li>
+						<li>{% comment %}                                          {% endcomment %}<a href="{{ '/index.html'      | relativize_url }}#discord"><i class="bi bi-discord hidden-lg"></i> Discord</a></li>
 						<li{% if page.path contains 'faq.html'        %} class="active"{% endif %}><a href="{{ '/faq.html'        | relativize_url }}"><i class="glyphicon glyphicon-question-sign hidden-lg"></i> FAQ</a></li>
 						<li{% if page.path contains 'tour.html'       %} class="active"{% endif %}><a href="{{ '/tour.html'       | relativize_url }}"><i class="glyphicon glyphicon-hand-up hidden-lg"></i> Tour</a></li>
 						<li{% if page.path contains 'minecraft.html'  %} class="active"{% endif %}><a href="{{ '/minecraft.html'  | relativize_url }}"><i class="glyphicon glyphicon-send hidden-lg"></i> Minecraft</a></li>

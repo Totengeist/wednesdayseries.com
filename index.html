@@ -1,9 +1,67 @@
 ---
-layout: page
-jumbotron_title: Chat with us on Discord
-subtitle: <a href="https://discord.gg/nevermoreacad">Come join us on Discord</a> to chat with other Wednesday fans, share your art, or play some games.
-jumbotron: jumbotron-socialmedia
-container: main
+layout: default
+title: News
+pagination:
+  enabled: true
 ---
+{% if paginator.total_posts != 0 %}
+			<div class="jumbotron jumbotron-faq">
+				<div class="container">
+					<div class="row col-lg-12 text-center">
+						<h1>Wednesday News</h1>
+					</div>
+				</div>
+			</div>
+			<div class="container news"><div class="row col-lg-12">
+				<ul class="post-list">
+					{% for post in paginator.posts %}
+				  <li>
+					<h3>
+					  <a class="post-link" href="{{ post.url | relativize_url }}">
+						{{ post.title | escape }}
+					  </a>
+					</h3>
+					{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+					<div class="post-meta">{{ post.date | date: date_format }}</div>
+					{%- if site.show_excerpts -%}
+					  {{ post.excerpt | strip_html | truncatewords:75 }}
+					{%- endif -%}
+				  </li>
+				  {%- endfor -%}
+				</ul>
+				{% if paginator.total_pages > 1 %}
+				<div class="previous-next-post-links">
+				  <div>
+					  {% if paginator.previous_page %}
+						  <a class="arrow arrow__left" href="{{ paginator.previous_page_path | relativize_url }}/index.html">Prev</a>
+					  {% endif %}
+				  </div>
+				  <div class="nav-label">Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
+				  <div>
+					  {% if paginator.next_page %}
+						  <a class="arrow arrow__right" href="{{ paginator.next_page_path | relativize_url }}/index.html">Next</a>
+					  {% endif %}
+				  </div>
+				</div>
+				{% endif %}
 
+				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relativize_url }}">via RSS</a></p>
+
+			</div>
+		</div>
+{% endif %}
+{% if paginator.page == 1 %}
+			<div class="jumbotron jumbotron-socialmedia" id="discord">
+				<div class="container">
+					<div class="row col-lg-12 text-center">
+						<h1>Chat with us on Discord</h1>
+					</div>
+					<div class="row col-lg-12 text-center">
+						<h3><a href="https://discord.gg/nevermoreacad">Come join us on Discord</a> to chat with other Wednesday fans, share your art, or play some games.</h3>
+					</div>
+				</div>
+			</div>
+			<div class="container main"><div class="row col-lg-12">
 <iframe src="https://discord.com/widget?id=943680870966001664&amp;theme=dark" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" data-ruffle-polyfilled="" class="row col-lg-12"></iframe>
+			</div></div>
+{% endif %}

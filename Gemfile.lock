@@ -44,6 +44,8 @@ GEM
     jekyll-index-pages (0.5.1)
       i18n (~> 0.8)
       jekyll (~> 3.3)
+    jekyll-paginate-v2 (3.0.0)
+      jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.15.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
@@ -103,6 +105,7 @@ DEPENDENCIES
   html-proofer
   jekyll-feed
   jekyll-index-pages
+  jekyll-paginate-v2
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap

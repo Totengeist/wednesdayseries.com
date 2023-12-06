@@ -84,6 +84,10 @@ hr {
 	font-weight: 300;
 }
 
+.container.news {
+	margin-bottom: 80px;
+}
+
 .container.tour h2 {
 	border-bottom: 1px solid #bd93f9;
 	border-top: 1px solid #bd93f9;
@@ -421,4 +425,12 @@ article.container, main.page-content {
 
 .post-series p:first-child {
 	text-align: center;
+}
+
+.footer {
+	margin-top: 80px;
+}
+
+.rss-subscribe {
+	float: right;
 }
