@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Join our Minecraft server
 jumbotron: jumbotron-minecraft
-layout: default
 redirect_from:
   - /t/join-our-minecraft-server/75
 ---

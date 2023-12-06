@@ -1,9 +1,9 @@
 ---
+layout: page
 title: Virtual Tour of Filming Locations
 jumbotron: jumbotron-tour
 container: tour
 toc: true
-layout: default
 ---
 
 ## Introduction

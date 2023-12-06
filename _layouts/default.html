@@ -7,28 +7,7 @@
 {%- include header.html -%}
 	<main class="page-content" aria-label="Content">
 		<div class="wrapper">
-
-{% if page.jumbotron and page.jumbotron != "" and page.jumbotron != nil %}
-			<div class="jumbotron {{ page.jumbotron }}">
-				<div class="container">
-					<div class="row col-lg-12 text-center">
-						<h1>{{ page.jumbotron_title | default: page.title }}</h1>
-					</div>
-					{% if page.subtitle and page.subtitle != "" and page.subtitle != nil %}
-					<div class="row col-lg-12 text-center">
-						{{ page.subtitle | markdownify }}
-					</div>
-					{% endif %}
-				</div>
-			</div>
-{% endif %}
-			<div class="container {{ page.container }}"><div class="row col-lg-12">
-{% if page.toc %}
-	{% include toc.html html=content h_max=3 skip_no_ids=true %}
-{% endif %}
 {{ content }}
-
-			</div></div>
 		</div>
 	</main>
 {%- include footer.html -%}
