@@ -21,9 +21,13 @@ Great! Now that you know how the spoiler tags work, you're set to use the rest o
 
 ## When will Season 2 release?
 
+**To be determined**. Filming will start in April of 2024.
+
 Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] strikes, production on season 2 was pushed back. A [Deadline][deadline-1235601823] report in November indicates shooting has been "tentatively slated for late April." The existing main cast is expected to return, although Percy Hynes White's status is [unclear](#has-percy-hynes-white-been-removed-from-the-cast).
 
 ## Has Wednesday been renewed for Season 2?
+
+**Yes**.
 
 *Wednesday* was [renewed for a second season][deadline-1235212712] in January 2023.
 
@@ -83,7 +87,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 
 ## Has Percy Hynes White been removed from the cast?
 
-**Unclear**.
+**Unclear, but most likely no**.
 
 There has been no reputable reporting on whether Percy Hynes White is still on the cast of Wednesday. All stories claiming he has been removed from the cast originate from questionable sources[^1]. Netflix has released no official statements on the matter.
 
