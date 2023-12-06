@@ -1,8 +1,9 @@
 ---
+layout: default
 title: Frequently Asked Questions
 jumbotron: jumbotron-faq
 container: faq
-layout: default
+toc: true
 redirect_from:
   - /t/has-wednesday-been-renewed/44
 ---
@@ -19,21 +20,24 @@ Great! Now that you know how the spoiler tags work, you're set to use the rest o
 
 {:toc}
 
-## When will Season 2 release?
+## Season 2
+
+### When will Season 2 release?
 
 **To be determined**. Filming will start in April of 2024.
 
 Due to the 2023 [SAG-AFTRA][wiki-sag] and [Writers Guild of America][wiki-wga] strikes, production on season 2 was pushed back. A [Deadline][deadline-1235601823] report in November indicates shooting has been "tentatively slated for late April." The existing main cast is expected to return, although Percy Hynes White's status is [unclear](#has-percy-hynes-white-been-removed-from-the-cast).
 
-## Has Wednesday been renewed for Season 2?
+### Has Wednesday been renewed for Season 2?
 
 **Yes**.
 
 *Wednesday* was [renewed for a second season][deadline-1235212712] in January 2023.
 
-## Where was Wednesday filmed?
+### Where will Season 2 be filmed?
 
-Season 1 of *Wednesday* was filmed on location in Romania. For information on filming locations for Season 1, please see our [Virtual Tour][_tour].
+For information about Season 1, [see below](#where-was-season-1-filmed).
+{: style="font-size: 0.6em;" }
 
 > We started in Toronto, we ended up in Romania. We looked at a lot of different castles and palaces and environments to base it on.
 > 
@@ -47,7 +51,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 > 
 > &mdash; [Deadline][deadline-1235613439]
 
-## Is Jenna Ortega a producer for Season 2?
+### Is Jenna Ortega a producer for Season 2?
 
 **Yes**. According to an interview on *Variety*'s *Actors on Actors* series, Ortega discussed this with Elle Fanning:
 
@@ -57,7 +61,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 > 
 > &mdash; [Variety][variety-1235631696]
 
-## Will Season 2 involve a love interest for Wednesday?
+### Will Season 2 involve a love interest for Wednesday?
 
 <div class="spoiler"><div markdown="1">
 
@@ -69,23 +73,7 @@ It has been reported that [Season 2 will be filmed in Ireland][deadline-12356018
 
 </div></div>
 
-## Did Jenna Ortega perform the famous Wednesday dance while sick with COVID?
-
-**Yes**. According to an interview with NME:
-
->  “I choreographed that myself!” Ortega tells us later. “I’m not a dancer and I’m sure that’s obvious. I’d gotten the song [The Cramps’ 1981 single ‘Goo Goo Muck’] about a week before and I just pulled from whatever I could… it’s crazy because it was my first day with COVID so it was awful to film.”
-> 
-> Wait, what?
-> 
-> “Yeah, I woke up and – it’s weird, I never get sick and when I do it’s not very bad – I had the body aches. I felt like I’d been hit by a car and that a little goblin had been let loose in my throat and was scratching the walls of my esophagus. They were giving me medicine between takes because we were waiting on the positive result.”
-> 
-> MGM, the production company behind Wednesday, confirmed to NME via email that “strict COVID protocols were followed and once the positive test was confirmed production removed Jenna from set.”
-> 
-> “I asked to redo it but we didn’t have time,” she adds. “I think I probably could have done it a bit better…”
-> 
-> &mdash; [NME][nme-3346075]
-
-## Has Percy Hynes White been removed from the cast?
+### Has Percy Hynes White been removed from the cast?
 
 **Unclear, but most likely no**.
 
@@ -105,7 +93,29 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 
 </div></div>
 
-## Did Jenna Ortega play a cello cover of The Rolling Stones' *Paint It Black*?
+## Season 1
+
+### Where was Season 1 filmed?
+
+Season 1 of *Wednesday* was filmed on location in Romania. For information on filming locations for Season 1, please see our [Virtual Tour][_tour].
+
+### Did Jenna Ortega perform the famous Wednesday dance while sick with COVID?
+
+**Yes**. According to an interview with NME:
+
+>  “I choreographed that myself!” Ortega tells us later. “I’m not a dancer and I’m sure that’s obvious. I’d gotten the song [The Cramps’ 1981 single ‘Goo Goo Muck’] about a week before and I just pulled from whatever I could… it’s crazy because it was my first day with COVID so it was awful to film.”
+> 
+> Wait, what?
+> 
+> “Yeah, I woke up and – it’s weird, I never get sick and when I do it’s not very bad – I had the body aches. I felt like I’d been hit by a car and that a little goblin had been let loose in my throat and was scratching the walls of my esophagus. They were giving me medicine between takes because we were waiting on the positive result.”
+> 
+> MGM, the production company behind Wednesday, confirmed to NME via email that “strict COVID protocols were followed and once the positive test was confirmed production removed Jenna from set.”
+> 
+> “I asked to redo it but we didn’t have time,” she adds. “I think I probably could have done it a bit better…”
+> 
+> &mdash; [NME][nme-3346075]
+
+### Did Jenna Ortega play a cello cover of The Rolling Stones' *Paint It Black*?
 
 **No**, but she did learn to play the cello and the song to look believable in the scene.
 
@@ -113,7 +123,11 @@ In an interview with *Digital Spy*, Gwendoline Christie alluded that Weems may r
 > 
 > &mdash; Miles Millar to [Vanity Fair][vanityfair-cello]
 
-The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana Da Fonseca][grammy2023], [Mick Jagger, and Keith Richards][billboard-1235518712] listed as arrangers. Jagger and Richards are also nominated for *Angry* from their new album.<hr>
+The song is nominated for a Grammy award with [Esin Aydingoz, Chris Bacon, Alana Da Fonseca][grammy2023], [Mick Jagger, and Keith Richards][billboard-1235518712] listed as arrangers. Jagger and Richards are also nominated for *Angry* from their new album.
+
+---
+
+**Footnotes:**
 
 [^1]: All recent reporting on Percy Hynes White's supposed firing comes, [via the Daily Mail][dailymail-12454313], from an anonymous "source close to his family." The Daily Mail [is generally regarded as unreliable][theguardian-dailymail].
 
