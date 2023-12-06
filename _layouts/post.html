@@ -13,7 +13,7 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
-      <ul class="post-categories">
+      <!--<ul class="post-categories">
         {% if post %}
           {% assign categories = post.categories %}
         {% else %}
@@ -22,7 +22,7 @@ layout: default
         {% for category in categories %}
         <li><a href="{{ "/category" | relativize_url }}/{{category | slugify: "latin" }}/index.html">{{category}}</a></li>
         {% endfor%}
-      </ul>
+      </ul>-->
     </div>
   </header>
 
