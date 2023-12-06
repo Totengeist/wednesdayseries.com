@@ -46,7 +46,6 @@ time_format: "%I:%M %P"
 markdown: kramdown
 plugins:
  - jekyll-index-pages
- - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-redirect-from

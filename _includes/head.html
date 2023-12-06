@@ -27,14 +27,5 @@
 		<meta name="theme-color" content="#ffffff">
 
 		{%- include google-analytics.html -%}
-		{%- feed_meta -%}
-		
-		<script language="javascript">
-			function spoil() {
-				var elements = document.getElementsByClassName(".spoiler");
-				for(i=0; i<selements.length; i++) {
-				  cols[i].className = 'spoiler-show';
-				}
-			}
-		</script>
+		<link href="{{ '/feed.xml' | relativize_url }}" type="application/rss+xml" rel="alternate" title="Latest blog posts (atom)" />
 	</head>
