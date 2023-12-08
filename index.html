@@ -45,7 +45,11 @@ pagination:
 				</div>
 				{% endif %}
 
-				<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relativize_url }}">via RSS</a></p>
+				<p class="rss-subscribe">subscribe via RSS:
+					<a href="{{ '/feed.xml' | relativize_url }}">all</a> |
+					<a href="{{ '/feed-alerts.xml' | relativize_url }}">alerts only</a> |
+					<a href="{{ '/feed-wednesday.xml' | relativize_url }}">Wednesday only</a>
+					</p>
 
 			</div>
 		</div>
