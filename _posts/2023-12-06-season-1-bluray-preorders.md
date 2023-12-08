@@ -3,7 +3,7 @@ layout: post
 author: Totengeist
 title: Wednesday Season 1 Blu-ray and DVD preorders are available
 date: 2023-12-06 11:57:00.000 -08:00
-categories: [merchandise, Season 1]
+categories: [merchandise, Season 1, Wednesday]
 tags: [dvd, blu-ray, release]
 excerpt: We’ve all been very excited to learn about production resuming on Season 2 of Wednesday after the end of the WGA and SAG-AFTRA strikes. With filming to start in April 2024, we look back to Season 1 briefly. Soon, you’ll be able to own Season 1 on both Blu-ray and DVD. There is currently no information available on what features and bonuses might be included along with the regular episodes.
 ---
