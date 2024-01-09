@@ -3,7 +3,7 @@ layout: post
 author: Totengeist
 title: Netflix hints at Uncle Fester spinoff
 date: 2023-12-17 19:10:00.000 -08:00
-categories: [Wednesday, Thr Addams Family, spinoff, cast, alerts]
+categories: [Wednesday, The Addams Family, spinoff, cast, alerts]
 tags: [Uncle Fester, Fred Armisen]
 ---
 
