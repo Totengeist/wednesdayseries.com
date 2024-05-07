@@ -18,7 +18,7 @@ Soon, you'll be able to own Season 1 on both [Blu-ray](https://www.amazon.com/We
 
 **Footnotes:**
 
-[^strikes-end]: The Writers Guild of America strike ended on September 27th, as reported by [Hollywood Reporter][hrep-1235600992].The end of the SAG-AFTRA strike was confirmed on November 9th by [SAG-AFTRA][sag-aftra-strike] and [Deadline][deadline-1235566470].
+[^strikes-end]: The Writers Guild of America strike ended on September 27th, as reported by [Hollywood Reporter][hrep-1235600992]. The end of the SAG-AFTRA strike was confirmed on November 9th by [SAG-AFTRA][sag-aftra-strike] and [Deadline][deadline-1235566470].
 
 [deadline-1235566470]: https://deadline.com/2023/11/sag-strike-ends-actors-studios-deal-contract-1235566470/ "Deadline: The Strike Is Over! SAG-AFTRA & Studios Reach Tentative Deal On New Three-Year Contract"
 [deadline-1235601823]: https://deadline.com/2023/11/wednesday-production-move-ireland-season-2-start-romania-1235601823/ "Deadline: ‘Wednesday’ Moving Production To Ireland As Season 2 Eyes Spring Start"
